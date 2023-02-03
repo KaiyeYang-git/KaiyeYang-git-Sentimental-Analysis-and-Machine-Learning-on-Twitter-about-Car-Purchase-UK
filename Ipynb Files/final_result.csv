@@ -21,7 +21,7 @@
 19,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,0,0
 20,1,yorkshire,Slightly Negative,1,1,1,1,1,1,1,0,0
 21,1,east midland,Slightly Negative,1,1,1,1,1,1,1,0,0
-22,1,southwest,Slightly Positive,1,1,1,1,1,1,1,0,0
+22,1,southeast,Slightly Positive,1,1,1,1,1,1,1,0,0
 23,1,other towns and places,Neutral,1,1,1,1,1,1,1,0,0
 24,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,0,0
 25,0,other towns and places,Neutral,1,1,1,1,1,1,1,0,0
@@ -50,7 +50,7 @@
 48,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 49,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 50,1,southeast,Neutral,1,1,1,1,1,1,1,1,0
-51,1,nottingham,Slightly Positive,1,1,1,1,1,1,1,1,0
+51,1,cambridge,Slightly Positive,1,1,1,1,1,1,1,1,0
 52,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 53,1,london,Neutral,1,1,1,1,1,1,1,1,0
 54,1,london,Extremely Positive,1,1,1,1,1,1,1,1,0
@@ -61,9 +61,9 @@
 59,0,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 60,0,scotland,Slightly Negative,1,1,1,1,1,1,1,1,0
 61,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
-62,1,scotland,Neutral,1,1,1,1,1,1,1,1,0
+62,1,west midland,Neutral,1,1,1,1,1,1,1,1,0
 63,1,southwest,Neutral,1,1,1,1,1,1,1,1,0
-64,0,northwest,Slightly Positive,1,1,1,1,1,1,1,1,0
+64,0,west midland,Slightly Positive,1,1,1,1,1,1,1,1,0
 65,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 66,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 67,1,scotland,Neutral,1,1,1,1,1,1,1,1,0
@@ -71,16 +71,16 @@
 69,1,london,Slightly Negative,1,1,1,1,1,1,1,1,0
 70,1,london,Neutral,1,1,1,1,1,1,1,1,0
 71,1,scotland,Neutral,1,1,1,1,1,1,1,1,0
-72,1,northwest,Neutral,1,1,1,1,1,1,1,1,0
-73,1,northeast,Neutral,1,1,1,1,1,1,1,1,0
+72,1,wales,Neutral,1,1,1,1,1,1,1,1,0
+73,1,east midland,Neutral,1,1,1,1,1,1,1,1,0
 74,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 75,0,other towns and places,Extremely Positive,1,1,1,1,1,1,1,1,0
-76,1,kingston,Neutral,1,1,1,1,1,1,1,1,0
+76,1,leeds,Neutral,1,1,1,1,1,1,1,1,0
 77,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 78,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 79,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 80,1,southeast,Neutral,1,1,1,1,1,1,1,1,0
-81,0,southeast,Neutral,1,1,1,1,1,1,1,1,0
+81,0,east midland,Neutral,1,1,1,1,1,1,1,1,0
 82,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 83,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 84,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
@@ -98,7 +98,7 @@
 96,1,northwest,Slightly Positive,1,1,1,1,1,1,1,1,0
 97,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 98,1,northwest,Slightly Negative,1,1,1,1,1,1,1,1,0
-99,1,oxford,Slightly Positive,1,1,1,1,1,1,1,1,0
+99,1,sunderland,Slightly Positive,1,1,1,1,1,1,1,1,0
 100,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 101,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 102,0,other towns and places,Extremely Positive,1,1,1,1,1,1,1,1,0
@@ -117,27 +117,27 @@
 115,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 116,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 117,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
-118,1,wales,Extremely Negative,1,1,1,1,1,1,1,1,0
+118,1,southwest,Extremely Negative,1,1,1,1,1,1,1,1,0
 119,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 120,1,wales,Slightly Negative,1,1,1,1,1,1,1,1,0
 121,1,london,Slightly Negative,1,1,1,1,1,1,1,1,0
 122,1,london,Neutral,1,1,1,1,1,1,1,1,0
 123,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 124,1,east midland,Slightly Negative,1,1,1,1,1,1,1,1,0
-125,1,west midland,Neutral,1,1,1,1,1,1,1,1,0
+125,1,southwest,Neutral,1,1,1,1,1,1,1,1,0
 126,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 127,1,east midland,Extremely Negative,1,1,1,1,1,1,1,1,0
 128,0,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 129,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 130,1,other towns and places,Extremely Negative,1,1,1,1,1,1,1,1,0
-131,1,brighton,Slightly Negative,1,1,1,1,1,1,1,1,0
+131,1,sheffield,Slightly Negative,1,1,1,1,1,1,1,1,0
 132,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 133,1,northwest,Neutral,1,1,1,1,1,1,1,1,0
 134,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 135,0,london,Neutral,1,1,1,1,1,1,1,1,0
 136,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 137,0,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
-138,0,poole,Slightly Negative,1,1,1,1,1,1,1,1,0
+138,0,peterborough,Slightly Negative,1,1,1,1,1,1,1,1,0
 139,1,yorkshire,Slightly Positive,1,1,1,1,1,1,1,1,0
 140,0,yorkshire,Slightly Negative,1,1,1,1,1,1,1,1,0
 141,1,other towns and places,Extremely Positive,1,1,1,1,1,1,1,1,0
@@ -150,9 +150,9 @@
 148,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 149,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 150,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-151,0,southeast,Neutral,1,1,1,1,1,1,1,1,0
+151,0,northwest,Neutral,1,1,1,1,1,1,1,1,0
 152,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
-153,1,northwest,Slightly Negative,1,1,1,1,1,1,1,1,0
+153,1,west midland,Slightly Negative,1,1,1,1,1,1,1,1,0
 154,0,east midland,Neutral,1,1,1,1,1,1,1,1,0
 155,0,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 156,0,southwest,Neutral,1,1,1,1,1,1,1,1,0
@@ -169,7 +169,7 @@
 167,0,southeast,Slightly Negative,1,1,1,1,1,1,1,1,0
 168,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 169,1,london,Neutral,1,1,1,1,1,1,1,1,0
-170,0,southwest,Neutral,1,1,1,1,1,1,1,1,0
+170,0,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 171,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 172,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 173,0,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -186,7 +186,7 @@
 184,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 185,1,west midland,Slightly Positive,1,1,1,1,1,1,1,1,0
 186,1,west midland,Neutral,1,1,1,1,1,1,1,1,0
-187,1,west midland,Slightly Negative,1,1,1,1,1,1,1,1,0
+187,1,wales,Slightly Negative,1,1,1,1,1,1,1,1,0
 188,1,northwest,Slightly Positive,1,1,1,1,1,1,1,1,0
 189,0,northwest,Slightly Negative,1,1,1,1,1,1,1,1,0
 190,1,northern ireland,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -197,7 +197,7 @@
 195,1,other towns and places,Extremely Positive,1,1,1,1,1,1,1,1,0
 196,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 197,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
-198,1,northwest,Slightly Positive,1,1,1,1,1,1,1,1,0
+198,1,northeast,Slightly Positive,1,1,1,1,1,1,1,1,0
 199,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 200,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 201,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -210,7 +210,7 @@
 208,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 209,1,southeast,Slightly Positive,1,1,1,1,1,1,1,1,0
 210,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
-211,1,peterborough,Slightly Positive,1,1,1,1,1,1,1,1,0
+211,1,milton keynes,Slightly Positive,1,1,1,1,1,1,1,1,0
 212,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 213,1,wales,Slightly Negative,1,1,1,1,1,1,1,1,0
 214,1,london,Neutral,1,1,1,1,1,1,1,1,0
@@ -223,7 +223,7 @@
 221,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 222,0,yorkshire,Slightly Negative,1,1,1,1,1,1,1,1,0
 223,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-224,1,wolverhampton,Neutral,1,1,1,1,1,1,1,1,0
+224,1,bournemouth,Neutral,1,1,1,1,1,1,1,1,0
 225,1,wales,Slightly Positive,1,1,1,1,1,1,1,1,0
 226,1,northeast,Neutral,1,1,1,1,1,1,1,1,0
 227,1,london,Slightly Negative,1,1,1,1,1,1,1,1,0
@@ -238,9 +238,9 @@
 236,0,other towns and places,Extremely Negative,1,1,1,1,1,1,1,1,0
 237,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 238,0,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
-239,1,southwest,Slightly Negative,1,1,1,1,1,1,1,1,0
+239,1,southeast,Slightly Negative,1,1,1,1,1,1,1,1,0
 240,0,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
-241,1,west midland,Neutral,1,1,1,1,1,1,1,1,0
+241,1,east midland,Neutral,1,1,1,1,1,1,1,1,0
 242,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 243,1,east midland,Neutral,1,1,1,1,1,1,1,1,0
 244,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -255,7 +255,7 @@
 253,0,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 254,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 255,1,london,Slightly Negative,1,1,1,1,1,1,1,1,0
-256,0,southwest,Slightly Positive,1,1,1,1,1,1,1,1,0
+256,0,east midland,Slightly Positive,1,1,1,1,1,1,1,1,0
 257,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 258,1,northwest,Neutral,1,1,1,1,1,1,1,1,0
 259,1,london,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -282,8 +282,8 @@
 280,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 281,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 282,1,scotland,Extremely Positive,1,1,1,1,1,1,1,1,0
-283,1,west midland,Neutral,1,1,1,1,1,1,1,1,0
-284,1,northern ireland,Extremely Negative,1,1,1,1,1,1,1,1,0
+283,1,scotland,Neutral,1,1,1,1,1,1,1,1,0
+284,1,southwest,Extremely Negative,1,1,1,1,1,1,1,1,0
 285,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 286,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 287,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -307,7 +307,7 @@
 305,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 306,1,london,Slightly Positive,1,1,1,1,1,1,1,1,0
 307,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
-308,1,southeast,Neutral,1,1,1,1,1,1,1,1,0
+308,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 309,1,northwest,Neutral,1,1,1,1,1,1,1,1,0
 310,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 311,1,west midland,Extremely Negative,1,1,1,1,1,1,1,1,0
@@ -317,7 +317,7 @@
 315,1,london,Neutral,1,1,1,1,1,1,1,1,0
 316,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 317,0,london,Extremely Negative,1,1,1,1,1,1,1,1,0
-318,0,northeast,Slightly Positive,1,1,1,1,1,1,1,1,0
+318,0,yorkshire,Slightly Positive,1,1,1,1,1,1,1,1,0
 319,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 320,1,other towns and places,Extremely Negative,1,1,1,1,1,1,1,1,0
 321,1,london,Extremely Positive,1,1,1,1,1,1,1,1,0
@@ -334,7 +334,7 @@
 332,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 333,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 334,1,wales,Neutral,1,1,1,1,1,1,1,1,0
-335,1,northwest,Slightly Positive,1,1,1,1,1,1,1,1,0
+335,1,east midland,Slightly Positive,1,1,1,1,1,1,1,1,0
 336,1,east midland,Neutral,1,1,1,1,1,1,1,1,0
 337,0,northwest,Neutral,1,1,1,1,1,1,1,1,0
 338,1,scotland,Neutral,1,1,1,1,1,1,1,1,0
@@ -345,7 +345,7 @@
 343,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 344,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 345,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-346,1,west midland,Extremely Negative,1,1,1,1,1,1,1,1,0
+346,1,yorkshire,Extremely Negative,1,1,1,1,1,1,1,1,0
 347,0,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 348,1,southwest,Neutral,1,1,1,1,1,1,1,1,0
 349,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -366,21 +366,21 @@
 364,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 365,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 366,0,london,Extremely Positive,1,1,1,1,1,1,1,1,0
-367,1,portsmouth,Neutral,1,1,1,1,1,1,1,1,0
-368,1,west midland,Slightly Positive,1,1,1,1,1,1,1,1,0
+367,1,newcastle,Neutral,1,1,1,1,1,1,1,1,0
+368,1,yorkshire,Slightly Positive,1,1,1,1,1,1,1,1,0
 369,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 370,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 371,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 372,0,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 373,0,london,Neutral,1,1,1,1,1,1,1,1,0
-374,1,peterborough,Neutral,1,1,1,1,1,1,1,1,0
+374,1,huddersfield,Neutral,1,1,1,1,1,1,1,1,0
 375,0,other towns and places,Extremely Positive,1,1,1,1,1,1,1,1,0
 376,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 377,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 378,1,other towns and places,Extremely Positive,1,1,1,1,1,1,1,1,0
 379,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-380,1,york,Neutral,1,1,1,1,1,1,1,1,0
-381,1,scotland,Neutral,1,1,1,1,1,1,1,1,0
+380,1,slough,Neutral,1,1,1,1,1,1,1,1,0
+381,1,northwest,Neutral,1,1,1,1,1,1,1,1,0
 382,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 383,1,other towns and places,Extremely Positive,1,1,1,1,1,1,1,1,0
 384,0,yorkshire,Slightly Negative,1,1,1,1,1,1,1,1,0
@@ -392,19 +392,19 @@
 390,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 391,1,wales,Neutral,1,1,1,1,1,1,1,1,0
 392,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
-393,1,scotland,Slightly Negative,1,1,1,1,1,1,1,1,0
+393,1,east midland,Slightly Negative,1,1,1,1,1,1,1,1,0
 394,1,other towns and places,Extremely Positive,1,1,1,1,1,1,1,1,0
-395,1,southeast,Neutral,1,1,1,1,1,1,1,1,0
+395,1,southwest,Neutral,1,1,1,1,1,1,1,1,0
 396,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
-397,0,scotland,Slightly Positive,1,1,1,1,1,1,1,1,0
-398,1,southeast,Slightly Negative,1,1,1,1,1,1,1,1,0
+397,0,southwest,Slightly Positive,1,1,1,1,1,1,1,1,0
+398,1,yorkshire,Slightly Negative,1,1,1,1,1,1,1,1,0
 399,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 400,0,west midland,Neutral,1,1,1,1,1,1,1,1,0
-401,0,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
+401,0,southeast,Neutral,1,1,1,1,1,1,1,1,0
 402,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 403,1,southwest,Neutral,1,1,1,1,1,1,1,1,0
 404,1,northwest,Neutral,1,1,1,1,1,1,1,1,0
-405,1,east midland,Slightly Negative,1,1,1,1,1,1,1,1,0
+405,1,wales,Slightly Negative,1,1,1,1,1,1,1,1,0
 406,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 407,1,other towns and places,Extremely Positive,1,1,1,1,1,1,1,1,0
 408,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -419,24 +419,24 @@
 417,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 418,1,east midland,Neutral,1,1,1,1,1,1,1,1,0
 419,1,london,Slightly Positive,1,1,1,1,1,1,1,1,0
-420,1,london,Neutral,1,1,1,1,1,1,1,1,0
+420,1,wales,Neutral,1,1,1,1,1,1,1,1,0
 421,1,southwest,Slightly Positive,1,1,1,1,1,1,1,1,0
 422,1,scotland,Neutral,1,1,1,1,1,1,1,1,0
 423,1,northeast,Neutral,1,1,1,1,1,1,1,1,0
 424,1,northwest,Slightly Negative,1,1,1,1,1,1,1,1,0
-425,1,east midland,Neutral,1,1,1,1,1,1,1,1,0
+425,1,southeast,Neutral,1,1,1,1,1,1,1,1,0
 426,1,yorkshire,Slightly Negative,1,1,1,1,1,1,1,1,0
 427,1,london,Extremely Positive,1,1,1,1,1,1,1,1,0
 428,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 429,0,yorkshire,Slightly Negative,1,1,1,1,1,1,1,1,0
 430,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 431,1,london,Neutral,1,1,1,1,1,1,1,1,0
-432,1,yorkshire,Slightly Positive,1,1,1,1,1,1,1,1,0
+432,1,northeast,Slightly Positive,1,1,1,1,1,1,1,1,0
 433,1,london,Slightly Negative,1,1,1,1,1,1,1,1,0
-434,0,scotland,Slightly Negative,1,1,1,1,1,1,1,1,0
+434,0,northeast,Slightly Negative,1,1,1,1,1,1,1,1,0
 435,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 436,1,london,Neutral,1,1,1,1,1,1,1,1,0
-437,1,northwest,Neutral,1,1,1,1,1,1,1,1,0
+437,1,southwest,Neutral,1,1,1,1,1,1,1,1,0
 438,0,london,Neutral,1,1,1,1,1,1,1,1,0
 439,0,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 440,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -464,9 +464,9 @@
 462,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 463,1,southeast,Neutral,1,1,1,1,1,1,1,1,0
 464,1,wales,Neutral,1,1,1,1,1,1,1,1,0
-465,0,northeast,Extremely Positive,1,1,1,1,1,1,1,1,0
+465,0,southwest,Extremely Positive,1,1,1,1,1,1,1,1,0
 466,0,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
-467,1,northwest,Extremely Negative,1,1,1,1,1,1,1,1,0
+467,1,southeast,Extremely Negative,1,1,1,1,1,1,1,1,0
 468,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 469,0,london,Slightly Negative,1,1,1,1,1,1,1,1,0
 470,1,scotland,Slightly Negative,1,1,1,1,1,1,1,1,0
@@ -474,7 +474,7 @@
 472,0,west midland,Neutral,1,1,1,1,1,1,1,1,0
 473,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 474,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-475,1,cambridge,Slightly Negative,1,1,1,1,1,1,1,1,0
+475,1,coventry,Slightly Negative,1,1,1,1,1,1,1,1,0
 476,1,london,Slightly Positive,1,1,1,1,1,1,1,1,0
 477,1,other towns and places,Extremely Positive,1,1,1,1,1,1,1,1,0
 478,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -494,12 +494,12 @@
 492,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 493,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 494,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-495,1,southeast,Extremely Negative,1,1,1,1,1,1,1,1,0
+495,1,east midland,Extremely Negative,1,1,1,1,1,1,1,1,0
 496,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 497,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 498,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 499,1,other towns and places,Extremely Positive,1,1,1,1,1,1,1,1,0
-500,1,west midland,Slightly Negative,1,1,1,1,1,1,1,1,0
+500,1,east midland,Slightly Negative,1,1,1,1,1,1,1,1,0
 501,1,scotland,Neutral,1,1,1,1,1,1,1,1,0
 502,1,northwest,Slightly Negative,1,1,1,1,1,1,1,1,0
 503,1,other towns and places,Extremely Positive,1,1,1,1,1,1,1,1,0
@@ -527,10 +527,10 @@
 525,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 526,0,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 527,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-528,1,west midland,Neutral,1,1,1,1,1,1,1,1,0
+528,1,wales,Neutral,1,1,1,1,1,1,1,1,0
 529,1,west midland,Slightly Negative,1,1,1,1,1,1,1,1,0
-530,1,northeast,Neutral,1,1,1,1,1,1,1,1,0
-531,1,east midland,Slightly Negative,1,1,1,1,1,1,1,1,0
+530,1,southeast,Neutral,1,1,1,1,1,1,1,1,0
+531,1,west midland,Slightly Negative,1,1,1,1,1,1,1,1,0
 532,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 533,0,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 534,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -540,13 +540,13 @@
 538,0,west midland,Slightly Positive,1,1,1,1,1,1,1,1,0
 539,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 540,1,other towns and places,Extremely Positive,1,1,1,1,1,1,1,1,0
-541,1,london,Slightly Negative,1,1,1,1,1,1,1,1,0
+541,1,southwest,Slightly Negative,1,1,1,1,1,1,1,1,0
 542,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 543,1,west midland,Neutral,1,1,1,1,1,1,1,1,0
 544,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
-545,0,yorkshire,Extremely Negative,1,1,1,1,1,1,1,1,0
+545,0,northern ireland,Extremely Negative,1,1,1,1,1,1,1,1,0
 546,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
-547,1,west midland,Slightly Negative,1,1,1,1,1,1,1,1,0
+547,1,east midland,Slightly Negative,1,1,1,1,1,1,1,1,0
 548,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 549,1,london,Neutral,1,1,1,1,1,1,1,1,0
 550,0,northwest,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -557,7 +557,7 @@
 555,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 556,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 557,0,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
-558,1,southwest,Slightly Negative,1,1,1,1,1,1,1,1,0
+558,1,northeast,Slightly Negative,1,1,1,1,1,1,1,1,0
 559,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 560,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 561,1,northeast,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -575,11 +575,11 @@
 573,1,west midland,Neutral,1,1,1,1,1,1,1,1,0
 574,1,west midland,Neutral,1,1,1,1,1,1,1,1,0
 575,1,northwest,Neutral,1,1,1,1,1,1,1,1,0
-576,1,scotland,Slightly Negative,1,1,1,1,1,1,1,1,0
-577,0,scotland,Neutral,1,1,1,1,1,1,1,1,0
+576,1,northwest,Slightly Negative,1,1,1,1,1,1,1,1,0
+577,0,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 578,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 579,1,other towns and places,Extremely Positive,1,1,1,1,1,1,1,1,0
-580,1,coventry,Neutral,1,1,1,1,1,1,1,1,0
+580,1,milton keynes,Neutral,1,1,1,1,1,1,1,1,0
 581,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 582,0,other towns and places,Extremely Negative,1,1,1,1,1,1,1,1,0
 583,1,east midland,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -594,32 +594,32 @@
 592,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 593,1,yorkshire,Slightly Positive,1,1,1,1,1,1,1,1,0
 594,0,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
-595,1,london,Neutral,1,1,1,1,1,1,1,1,0
+595,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 596,1,northern ireland,Slightly Negative,1,1,1,1,1,1,1,1,0
 597,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 598,1,london,Slightly Negative,1,1,1,1,1,1,1,1,0
 599,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 600,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
-601,1,west midland,Neutral,1,1,1,1,1,1,1,1,0
+601,1,east midland,Neutral,1,1,1,1,1,1,1,1,0
 602,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 603,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 604,1,northeast,Slightly Negative,1,1,1,1,1,1,1,1,0
-605,1,london,Slightly Negative,1,1,1,1,1,1,1,1,0
+605,1,southwest,Slightly Negative,1,1,1,1,1,1,1,1,0
 606,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 607,1,southwest,Slightly Positive,1,1,1,1,1,1,1,1,0
 608,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 609,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 610,1,scotland,Slightly Negative,1,1,1,1,1,1,1,1,0
 611,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-612,1,southeast,Neutral,1,1,1,1,1,1,1,1,0
+612,1,southwest,Neutral,1,1,1,1,1,1,1,1,0
 613,1,london,Neutral,1,1,1,1,1,1,1,1,0
 614,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
-615,1,west midland,Neutral,1,1,1,1,1,1,1,1,0
+615,1,northeast,Neutral,1,1,1,1,1,1,1,1,0
 616,1,scotland,Extremely Negative,1,1,1,1,1,1,1,1,0
 617,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 618,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 619,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-620,0,west midland,Extremely Positive,1,1,1,1,1,1,1,1,0
+620,0,east midland,Extremely Positive,1,1,1,1,1,1,1,1,0
 621,0,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 622,1,other towns and places,Extremely Positive,1,1,1,1,1,1,1,1,0
 623,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -654,15 +654,15 @@
 652,1,scotland,Neutral,1,1,1,1,1,1,1,1,0
 653,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 654,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
-655,1,scotland,Slightly Negative,1,1,1,1,1,1,1,1,0
+655,1,west midland,Slightly Negative,1,1,1,1,1,1,1,1,0
 656,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 657,1,east midland,Extremely Positive,1,1,1,1,1,1,1,1,0
 658,1,southwest,Neutral,1,1,1,1,1,1,1,1,0
 659,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 660,0,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 661,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-662,0,east midland,Extremely Positive,1,1,1,1,1,1,1,1,0
-663,1,swansea,Neutral,1,1,1,1,1,1,1,1,0
+662,0,northwest,Extremely Positive,1,1,1,1,1,1,1,1,0
+663,1,london,Neutral,1,1,1,1,1,1,1,1,0
 664,0,london,Neutral,1,1,1,1,1,1,1,1,0
 665,0,other towns and places,Extremely Positive,1,1,1,1,1,1,1,1,0
 666,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -670,8 +670,8 @@
 668,0,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 669,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 670,1,london,Neutral,1,1,1,1,1,1,1,1,0
-671,1,middlesbrough,Neutral,1,1,1,1,1,1,1,1,0
-672,0,leicester,Neutral,1,1,1,1,1,1,1,1,0
+671,1,york,Neutral,1,1,1,1,1,1,1,1,0
+672,0,bradford,Neutral,1,1,1,1,1,1,1,1,0
 673,1,northwest,Neutral,1,1,1,1,1,1,1,1,0
 674,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 675,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -681,13 +681,13 @@
 679,0,london,Neutral,1,1,1,1,1,1,1,1,0
 680,0,london,Neutral,1,1,1,1,1,1,1,1,0
 681,1,london,Extremely Negative,1,1,1,1,1,1,1,1,0
-682,1,poole,Neutral,1,1,1,1,1,1,1,1,0
+682,1,luton,Neutral,1,1,1,1,1,1,1,1,0
 683,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
-684,1,northern ireland,Extremely Positive,1,1,1,1,1,1,1,1,0
+684,1,southeast,Extremely Positive,1,1,1,1,1,1,1,1,0
 685,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 686,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 687,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
-688,1,plymouth,Slightly Negative,1,1,1,1,1,1,1,1,0
+688,1,stoke-on-trent,Slightly Negative,1,1,1,1,1,1,1,1,0
 689,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 690,1,london,Slightly Negative,1,1,1,1,1,1,1,1,0
 691,0,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -705,10 +705,10 @@
 703,0,southwest,Neutral,1,1,1,1,1,1,1,1,0
 704,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 705,1,northern ireland,Extremely Positive,1,1,1,1,1,1,1,1,0
-706,1,west midland,Neutral,1,1,1,1,1,1,1,1,0
+706,1,northwest,Neutral,1,1,1,1,1,1,1,1,0
 707,1,southwest,Extremely Positive,1,1,1,1,1,1,1,1,0
 708,1,other towns and places,Extremely Negative,1,1,1,1,1,1,1,1,0
-709,1,northwest,Slightly Negative,1,1,1,1,1,1,1,1,0
+709,1,scotland,Slightly Negative,1,1,1,1,1,1,1,1,0
 710,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 711,1,northern ireland,Extremely Positive,1,1,1,1,1,1,1,1,0
 712,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
@@ -717,7 +717,7 @@
 715,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 716,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 717,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-718,0,southeast,Extremely Negative,1,1,1,1,1,1,1,1,0
+718,0,east midland,Extremely Negative,1,1,1,1,1,1,1,1,0
 719,0,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 720,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 721,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -729,22 +729,22 @@
 727,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 728,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 729,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-730,0,southeast,Neutral,1,1,1,1,1,1,1,1,0
+730,0,northeast,Neutral,1,1,1,1,1,1,1,1,0
 731,0,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 732,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 733,0,london,Extremely Positive,1,1,1,1,1,1,1,1,0
-734,1,southwest,Slightly Negative,1,1,1,1,1,1,1,1,0
-735,1,northwest,Slightly Positive,1,1,1,1,1,1,1,1,0
+734,1,northern ireland,Slightly Negative,1,1,1,1,1,1,1,1,0
+735,1,southeast,Slightly Positive,1,1,1,1,1,1,1,1,0
 736,1,yorkshire,Slightly Negative,1,1,1,1,1,1,1,1,0
 737,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 738,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-739,1,east midland,Neutral,1,1,1,1,1,1,1,1,0
+739,1,southwest,Neutral,1,1,1,1,1,1,1,1,0
 740,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 741,1,northern ireland,Extremely Positive,1,1,1,1,1,1,1,1,0
 742,1,scotland,Neutral,1,1,1,1,1,1,1,1,0
 743,1,east midland,Neutral,1,1,1,1,1,1,1,1,0
-744,1,southwest,Extremely Positive,1,1,1,1,1,1,1,1,0
-745,1,leicester,Slightly Positive,1,1,1,1,1,1,1,1,0
+744,1,west midland,Extremely Positive,1,1,1,1,1,1,1,1,0
+745,1,plymouth,Slightly Positive,1,1,1,1,1,1,1,1,0
 746,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 747,1,other towns and places,Extremely Positive,1,1,1,1,1,1,1,1,0
 748,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -757,8 +757,8 @@
 755,0,northern ireland,Neutral,1,1,1,1,1,1,1,1,0
 756,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 757,0,london,Slightly Negative,1,1,1,1,1,1,1,1,0
-758,1,southwest,Neutral,1,1,1,1,1,1,1,1,0
-759,1,milton keynes,Slightly Positive,1,1,1,1,1,1,1,1,0
+758,1,east midland,Neutral,1,1,1,1,1,1,1,1,0
+759,1,stoke-on-trent,Slightly Positive,1,1,1,1,1,1,1,1,0
 760,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 761,1,london,Slightly Positive,1,1,1,1,1,1,1,1,0
 762,1,london,Extremely Negative,1,1,1,1,1,1,1,1,0
@@ -784,7 +784,7 @@
 782,1,southwest,Neutral,1,1,1,1,1,1,1,1,0
 783,1,wales,Slightly Negative,1,1,1,1,1,1,1,1,0
 784,1,yorkshire,Slightly Positive,1,1,1,1,1,1,1,1,0
-785,1,london,Slightly Positive,1,1,1,1,1,1,1,1,0
+785,1,southeast,Slightly Positive,1,1,1,1,1,1,1,1,0
 786,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 787,1,london,Slightly Positive,1,1,1,1,1,1,1,1,0
 788,1,northwest,Neutral,1,1,1,1,1,1,1,1,0
@@ -799,20 +799,20 @@
 797,1,london,Slightly Negative,1,1,1,1,1,1,1,1,0
 798,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 799,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-800,0,wales,Slightly Positive,1,1,1,1,1,1,1,1,0
+800,0,southeast,Slightly Positive,1,1,1,1,1,1,1,1,0
 801,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 802,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 803,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 804,1,yorkshire,Slightly Negative,1,1,1,1,1,1,1,1,0
-805,1,liverpool,Extremely Positive,1,1,1,1,1,1,1,1,0
-806,0,lancaster,Slightly Negative,1,1,1,1,1,1,1,1,0
+805,1,aberdeen,Extremely Positive,1,1,1,1,1,1,1,1,0
+806,0,telford,Slightly Negative,1,1,1,1,1,1,1,1,0
 807,1,east midland,Slightly Negative,1,1,1,1,1,1,1,1,0
 808,1,southeast,Neutral,1,1,1,1,1,1,1,1,0
 809,0,northwest,Slightly Positive,1,1,1,1,1,1,1,1,0
 810,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 811,1,yorkshire,Slightly Positive,1,1,1,1,1,1,1,1,0
-812,1,northeast,Slightly Negative,1,1,1,1,1,1,1,1,0
-813,0,southwest,Slightly Positive,1,1,1,1,1,1,1,1,0
+812,1,southwest,Slightly Negative,1,1,1,1,1,1,1,1,0
+813,0,east midland,Slightly Positive,1,1,1,1,1,1,1,1,0
 814,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 815,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 816,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -824,13 +824,13 @@
 822,0,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 823,0,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 824,0,east midland,Neutral,1,1,1,1,1,1,1,1,0
-825,0,yorkshire,Slightly Negative,1,1,1,1,1,1,1,1,0
+825,0,northwest,Slightly Negative,1,1,1,1,1,1,1,1,0
 826,1,west midland,Slightly Positive,1,1,1,1,1,1,1,1,0
 827,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 828,1,scotland,Neutral,1,1,1,1,1,1,1,1,0
 829,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 830,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
-831,1,northeast,Slightly Positive,1,1,1,1,1,1,1,1,0
+831,1,southwest,Slightly Positive,1,1,1,1,1,1,1,1,0
 832,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 833,1,west midland,Neutral,1,1,1,1,1,1,1,1,0
 834,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -843,8 +843,8 @@
 841,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 842,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 843,0,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
-844,1,southwest,Neutral,1,1,1,1,1,1,1,1,0
-845,0,northern ireland,Slightly Negative,1,1,1,1,1,1,1,1,0
+844,1,northwest,Neutral,1,1,1,1,1,1,1,1,0
+845,0,northeast,Slightly Negative,1,1,1,1,1,1,1,1,0
 846,1,wales,Slightly Positive,1,1,1,1,1,1,1,1,0
 847,0,west midland,Slightly Negative,1,1,1,1,1,1,1,1,0
 848,1,yorkshire,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -862,15 +862,15 @@
 860,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 861,1,scotland,Slightly Positive,1,1,1,1,1,1,1,1,0
 862,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
-863,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
+863,1,east midland,Neutral,1,1,1,1,1,1,1,1,0
 864,0,northern ireland,Slightly Negative,1,1,1,1,1,1,1,1,0
 865,1,east midland,Slightly Negative,1,1,1,1,1,1,1,1,0
-866,1,east midland,Neutral,1,1,1,1,1,1,1,1,0
+866,1,northwest,Neutral,1,1,1,1,1,1,1,1,0
 867,1,east midland,Slightly Positive,1,1,1,1,1,1,1,1,0
 868,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 869,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 870,1,northeast,Neutral,1,1,1,1,1,1,1,1,0
-871,0,southwest,Slightly Negative,1,1,1,1,1,1,1,1,0
+871,0,scotland,Slightly Negative,1,1,1,1,1,1,1,1,0
 872,0,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 873,1,london,Slightly Positive,1,1,1,1,1,1,1,1,0
 874,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -899,11 +899,11 @@
 897,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 898,1,other towns and places,Extremely Negative,1,1,1,1,1,1,1,1,0
 899,1,yorkshire,Slightly Negative,1,1,1,1,1,1,1,1,0
-900,1,yorkshire,Slightly Positive,1,1,1,1,1,1,1,1,0
+900,1,northwest,Slightly Positive,1,1,1,1,1,1,1,1,0
 901,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 902,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 903,1,northern ireland,Slightly Negative,1,1,1,1,1,1,1,1,0
-904,1,northwest,Neutral,1,1,1,1,1,1,1,1,0
+904,1,southeast,Neutral,1,1,1,1,1,1,1,1,0
 905,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 906,0,east midland,Neutral,1,1,1,1,1,1,1,1,0
 907,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -911,7 +911,7 @@
 909,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 910,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 911,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-912,1,wales,Slightly Positive,1,1,1,1,1,1,1,1,0
+912,1,yorkshire,Slightly Positive,1,1,1,1,1,1,1,1,0
 913,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 914,1,london,Neutral,1,1,1,1,1,1,1,1,0
 915,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -924,7 +924,7 @@
 922,0,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 923,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 924,1,other towns and places,Extremely Positive,1,1,1,1,1,1,1,1,0
-925,1,east midland,Slightly Negative,1,1,1,1,1,1,1,1,0
+925,1,northwest,Slightly Negative,1,1,1,1,1,1,1,1,0
 926,1,wales,Slightly Negative,1,1,1,1,1,1,1,1,0
 927,1,wales,Slightly Positive,1,1,1,1,1,1,1,1,0
 928,1,northeast,Neutral,1,1,1,1,1,1,1,1,0
@@ -932,7 +932,7 @@
 930,0,yorkshire,Slightly Negative,1,1,1,1,1,1,1,1,0
 931,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 932,1,west midland,Slightly Positive,1,1,1,1,1,1,1,1,0
-933,1,southend-on-sea,Extremely Positive,1,1,1,1,1,1,1,1,0
+933,1,glasgow,Extremely Positive,1,1,1,1,1,1,1,1,0
 934,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 935,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 936,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -944,14 +944,14 @@
 942,0,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 943,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 944,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
-945,1,east midland,Slightly Negative,1,1,1,1,1,1,1,1,0
+945,1,yorkshire,Slightly Negative,1,1,1,1,1,1,1,1,0
 946,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 947,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 948,0,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 949,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 950,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 951,1,london,Neutral,1,1,1,1,1,1,1,1,0
-952,0,northeast,Slightly Positive,1,1,1,1,1,1,1,1,0
+952,0,west midland,Slightly Positive,1,1,1,1,1,1,1,1,0
 953,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 954,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 955,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -970,13 +970,13 @@
 968,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 969,0,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 970,1,london,Slightly Negative,1,1,1,1,1,1,1,1,0
-971,1,southeast,Neutral,1,1,1,1,1,1,1,1,0
+971,1,east midland,Neutral,1,1,1,1,1,1,1,1,0
 972,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 973,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 974,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 975,0,wales,Neutral,1,1,1,1,1,1,1,1,0
 976,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
-977,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
+977,1,east midland,Neutral,1,1,1,1,1,1,1,1,0
 978,1,london,Slightly Positive,1,1,1,1,1,1,1,1,0
 979,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 980,1,southwest,Slightly Negative,1,1,1,1,1,1,1,1,0
@@ -984,7 +984,7 @@
 982,1,northwest,Neutral,1,1,1,1,1,1,1,1,0
 983,0,east midland,Slightly Positive,1,1,1,1,1,1,1,1,0
 984,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
-985,1,northwest,Slightly Negative,1,1,1,1,1,1,1,1,0
+985,1,southeast,Slightly Negative,1,1,1,1,1,1,1,1,0
 986,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 987,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 988,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -992,13 +992,13 @@
 990,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 991,0,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 992,0,east midland,Extremely Positive,1,1,1,1,1,1,1,1,0
-993,1,wales,Neutral,1,1,1,1,1,1,1,1,0
-994,1,east midland,Slightly Negative,1,1,1,1,1,1,1,1,0
+993,1,southwest,Neutral,1,1,1,1,1,1,1,1,0
+994,1,west midland,Slightly Negative,1,1,1,1,1,1,1,1,0
 995,0,scotland,Neutral,1,1,1,1,1,1,1,1,0
 996,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 997,0,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 998,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-999,0,northwest,Neutral,1,1,1,1,1,1,1,1,0
+999,0,northern ireland,Neutral,1,1,1,1,1,1,1,1,0
 1000,1,london,Slightly Negative,1,1,1,1,1,1,1,1,0
 1001,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1002,0,west midland,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -1006,13 +1006,13 @@
 1004,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1005,1,southwest,Slightly Negative,1,1,1,1,1,1,1,1,0
 1006,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
-1007,0,northeast,Neutral,1,1,1,1,1,1,1,1,0
+1007,0,southeast,Neutral,1,1,1,1,1,1,1,1,0
 1008,1,london,Slightly Negative,1,1,1,1,1,1,1,1,0
 1009,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1010,1,northern ireland,Slightly Positive,1,1,1,1,1,1,1,1,0
-1011,1,portsmouth,Slightly Positive,1,1,1,1,1,1,1,1,0
+1011,1,warrington,Slightly Positive,1,1,1,1,1,1,1,1,0
 1012,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
-1013,0,east midland,Slightly Positive,1,1,1,1,1,1,1,1,0
+1013,0,southwest,Slightly Positive,1,1,1,1,1,1,1,1,0
 1014,1,east midland,Slightly Positive,1,1,1,1,1,1,1,1,0
 1015,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1016,1,northwest,Slightly Negative,1,1,1,1,1,1,1,1,0
@@ -1022,7 +1022,7 @@
 1020,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1021,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1022,0,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
-1023,1,reading,Slightly Negative,1,1,1,1,1,1,1,1,0
+1023,1,huddersfield,Slightly Negative,1,1,1,1,1,1,1,1,0
 1024,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1025,1,other towns and places,Extremely Negative,1,1,1,1,1,1,1,1,0
 1026,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
@@ -1052,7 +1052,7 @@
 1050,0,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1051,1,london,Slightly Positive,1,1,1,1,1,1,1,1,0
 1052,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-1053,0,west midland,Slightly Positive,1,1,1,1,1,1,1,1,0
+1053,0,southeast,Slightly Positive,1,1,1,1,1,1,1,1,0
 1054,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 1055,0,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1056,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -1064,18 +1064,18 @@
 1062,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1063,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1064,1,london,Neutral,1,1,1,1,1,1,1,1,0
-1065,1,west midland,Neutral,1,1,1,1,1,1,1,1,0
+1065,1,east midland,Neutral,1,1,1,1,1,1,1,1,0
 1066,1,southwest,Extremely Negative,1,1,1,1,1,1,1,1,0
-1067,1,peterborough,Extremely Positive,1,1,1,1,1,1,1,1,0
+1067,1,northampton,Extremely Positive,1,1,1,1,1,1,1,1,0
 1068,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1069,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-1070,1,southeast,Slightly Negative,1,1,1,1,1,1,1,1,0
+1070,1,west midland,Slightly Negative,1,1,1,1,1,1,1,1,0
 1071,0,other towns and places,Extremely Negative,1,1,1,1,1,1,1,1,0
 1072,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 1073,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-1074,1,northwest,Slightly Negative,1,1,1,1,1,1,1,1,0
+1074,1,yorkshire,Slightly Negative,1,1,1,1,1,1,1,1,0
 1075,1,northwest,Slightly Positive,1,1,1,1,1,1,1,1,0
-1076,1,northwest,Slightly Negative,1,1,1,1,1,1,1,1,0
+1076,1,southeast,Slightly Negative,1,1,1,1,1,1,1,1,0
 1077,1,london,Slightly Negative,1,1,1,1,1,1,1,1,0
 1078,0,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1079,0,east midland,Neutral,1,1,1,1,1,1,1,1,0
@@ -1114,11 +1114,11 @@
 1112,1,southeast,Extremely Positive,1,1,1,1,1,1,1,1,0
 1113,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1114,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
-1115,1,yorkshire,Slightly Positive,1,1,1,1,1,1,1,1,0
-1116,1,cardiff,Extremely Positive,1,1,1,1,1,1,1,1,0
-1117,1,southeast,Neutral,1,1,1,1,1,1,1,1,0
-1118,1,plymouth,Neutral,1,1,1,1,1,1,1,1,0
-1119,1,southwest,Neutral,1,1,1,1,1,1,1,1,0
+1115,1,northwest,Slightly Positive,1,1,1,1,1,1,1,1,0
+1116,1,kingston,Extremely Positive,1,1,1,1,1,1,1,1,0
+1117,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
+1118,1,southend-on-sea,Neutral,1,1,1,1,1,1,1,1,0
+1119,1,northwest,Neutral,1,1,1,1,1,1,1,1,0
 1120,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1121,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 1122,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -1158,7 +1158,7 @@
 1156,0,london,Neutral,1,1,1,1,1,1,1,1,0
 1157,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1158,1,southwest,Slightly Negative,1,1,1,1,1,1,1,1,0
-1159,1,northwest,Slightly Positive,1,1,1,1,1,1,1,1,0
+1159,1,west midland,Slightly Positive,1,1,1,1,1,1,1,1,0
 1160,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1161,1,london,Slightly Positive,1,1,1,1,1,1,1,1,0
 1162,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -1169,14 +1169,14 @@
 1167,0,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1168,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1169,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-1170,1,northwest,Slightly Negative,1,1,1,1,1,1,1,1,0
+1170,1,southeast,Slightly Negative,1,1,1,1,1,1,1,1,0
 1171,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1172,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
-1173,1,west midland,Slightly Negative,1,1,1,1,1,1,1,1,0
+1173,1,northeast,Slightly Negative,1,1,1,1,1,1,1,1,0
 1174,1,scotland,Slightly Negative,1,1,1,1,1,1,1,1,0
 1175,0,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1176,1,scotland,Neutral,1,1,1,1,1,1,1,1,0
-1177,0,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
+1177,0,east midland,Neutral,1,1,1,1,1,1,1,1,0
 1178,0,northwest,Neutral,1,1,1,1,1,1,1,1,0
 1179,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1180,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -1196,9 +1196,9 @@
 1194,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1195,0,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1196,1,london,Neutral,1,1,1,1,1,1,1,1,0
-1197,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
+1197,1,southwest,Neutral,1,1,1,1,1,1,1,1,0
 1198,1,london,Slightly Positive,1,1,1,1,1,1,1,1,0
-1199,1,northeast,Neutral,1,1,1,1,1,1,1,1,0
+1199,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 1200,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1201,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1202,1,scotland,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -1220,7 +1220,7 @@
 1218,1,london,Slightly Negative,1,1,1,1,1,1,1,1,0
 1219,1,west midland,Slightly Negative,1,1,1,1,1,1,1,1,0
 1220,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-1221,1,southwest,Neutral,1,1,1,1,1,1,1,1,0
+1221,1,southeast,Neutral,1,1,1,1,1,1,1,1,0
 1222,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1223,1,southeast,Slightly Positive,1,1,1,1,1,1,1,1,0
 1224,0,london,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -1230,7 +1230,7 @@
 1228,1,london,Extremely Positive,1,1,1,1,1,1,1,1,0
 1229,0,northwest,Slightly Positive,1,1,1,1,1,1,1,1,0
 1230,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-1231,1,west midland,Slightly Negative,1,1,1,1,1,1,1,1,0
+1231,1,northwest,Slightly Negative,1,1,1,1,1,1,1,1,0
 1232,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1233,1,southwest,Neutral,1,1,1,1,1,1,1,1,0
 1234,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -1263,7 +1263,7 @@
 1261,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1262,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1263,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
-1264,1,bristol,Slightly Positive,1,1,1,1,1,1,1,1,0
+1264,1,northampton,Slightly Positive,1,1,1,1,1,1,1,1,0
 1265,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1266,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1267,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -1272,7 +1272,7 @@
 1270,0,southwest,Neutral,1,1,1,1,1,1,1,1,0
 1271,0,yorkshire,Extremely Positive,1,1,1,1,1,1,1,1,0
 1272,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
-1273,1,southeast,Slightly Negative,1,1,1,1,1,1,1,1,0
+1273,1,southwest,Slightly Negative,1,1,1,1,1,1,1,1,0
 1274,1,west midland,Neutral,1,1,1,1,1,1,1,1,0
 1275,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1276,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -1281,17 +1281,17 @@
 1279,1,east midland,Slightly Negative,1,1,1,1,1,1,1,1,0
 1280,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1281,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
-1282,1,west midland,Slightly Positive,1,1,1,1,1,1,1,1,0
+1282,1,yorkshire,Slightly Positive,1,1,1,1,1,1,1,1,0
 1283,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1284,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1285,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1286,1,west midland,Slightly Negative,1,1,1,1,1,1,1,1,0
 1287,1,east midland,Slightly Negative,1,1,1,1,1,1,1,1,0
-1288,1,cardiff,Neutral,1,1,1,1,1,1,1,1,0
+1288,1,newcastle,Neutral,1,1,1,1,1,1,1,1,0
 1289,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1290,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1291,0,northwest,Slightly Positive,1,1,1,1,1,1,1,1,0
-1292,1,middlesbrough,Neutral,1,1,1,1,1,1,1,1,0
+1292,1,newcastle,Neutral,1,1,1,1,1,1,1,1,0
 1293,1,other towns and places,Extremely Positive,1,1,1,1,1,1,1,1,0
 1294,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1295,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
@@ -1318,7 +1318,7 @@
 1316,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1317,1,london,Neutral,1,1,1,1,1,1,1,1,0
 1318,0,london,Neutral,1,1,1,1,1,1,1,1,0
-1319,1,bournemouth,Neutral,1,1,1,1,1,1,1,1,0
+1319,1,northampton,Neutral,1,1,1,1,1,1,1,1,0
 1320,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1321,1,other towns and places,Extremely Negative,1,1,1,1,1,1,1,1,0
 1322,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -1337,14 +1337,14 @@
 1335,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1336,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1337,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-1338,1,northern ireland,Neutral,1,1,1,1,1,1,1,1,0
+1338,1,east midland,Neutral,1,1,1,1,1,1,1,1,0
 1339,1,wales,Slightly Positive,1,1,1,1,1,1,1,1,0
-1340,1,southeast,Neutral,1,1,1,1,1,1,1,1,0
+1340,1,northwest,Neutral,1,1,1,1,1,1,1,1,0
 1341,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1342,1,northwest,Extremely Positive,1,1,1,1,1,1,1,1,0
-1343,0,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
+1343,0,southwest,Neutral,1,1,1,1,1,1,1,1,0
 1344,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-1345,0,southeast,Neutral,1,1,1,1,1,1,1,1,0
+1345,0,london,Neutral,1,1,1,1,1,1,1,1,0
 1346,1,northeast,Extremely Positive,1,1,1,1,1,1,1,1,0
 1347,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1348,1,southeast,Neutral,1,1,1,1,1,1,1,1,0
@@ -1362,7 +1362,7 @@
 1360,1,southeast,Extremely Positive,1,1,1,1,1,1,1,1,0
 1361,1,london,Neutral,1,1,1,1,1,1,1,1,0
 1362,1,london,Neutral,1,1,1,1,1,1,1,1,0
-1363,1,wales,Extremely Positive,1,1,1,1,1,1,1,1,0
+1363,1,northeast,Extremely Positive,1,1,1,1,1,1,1,1,0
 1364,0,london,Slightly Negative,1,1,1,1,1,1,1,1,0
 1365,1,scotland,Slightly Positive,1,1,1,1,1,1,1,1,0
 1366,1,london,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -1378,7 +1378,7 @@
 1376,1,other towns and places,Extremely Positive,1,1,1,1,1,1,1,1,0
 1377,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1378,1,northern ireland,Neutral,1,1,1,1,1,1,1,1,0
-1379,1,yorkshire,Slightly Negative,1,1,1,1,1,1,1,1,0
+1379,1,scotland,Slightly Negative,1,1,1,1,1,1,1,1,0
 1380,0,scotland,Slightly Negative,1,1,1,1,1,1,1,1,0
 1381,1,southwest,Neutral,1,1,1,1,1,1,1,1,0
 1382,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -1389,16 +1389,16 @@
 1387,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1388,1,scotland,Extremely Positive,1,1,1,1,1,1,1,1,0
 1389,0,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
-1390,1,swindon,Slightly Negative,1,1,1,1,1,1,1,1,0
+1390,1,southend-on-sea,Slightly Negative,1,1,1,1,1,1,1,1,0
 1391,1,east midland,Extremely Positive,1,1,1,1,1,1,1,1,0
-1392,0,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
+1392,0,london,Neutral,1,1,1,1,1,1,1,1,0
 1393,1,scotland,Neutral,1,1,1,1,1,1,1,1,0
 1394,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
-1395,1,southwest,Slightly Positive,1,1,1,1,1,1,1,1,0
+1395,1,west midland,Slightly Positive,1,1,1,1,1,1,1,1,0
 1396,1,london,Neutral,1,1,1,1,1,1,1,1,0
 1397,1,east midland,Neutral,1,1,1,1,1,1,1,1,0
-1398,1,southeast,Slightly Negative,1,1,1,1,1,1,1,1,0
-1399,0,stoke-on-trent,Neutral,1,1,1,1,1,1,1,1,0
+1398,1,east midland,Slightly Negative,1,1,1,1,1,1,1,1,0
+1399,0,liverpool,Neutral,1,1,1,1,1,1,1,1,0
 1400,0,london,Neutral,1,1,1,1,1,1,1,1,0
 1401,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1402,1,london,Neutral,1,1,1,1,1,1,1,1,0
@@ -1419,15 +1419,15 @@
 1417,1,southwest,Extremely Positive,1,1,1,1,1,1,1,1,0
 1418,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1419,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
-1420,0,west midland,Slightly Positive,1,1,1,1,1,1,1,1,0
-1421,0,southeast,Neutral,1,1,1,1,1,1,1,1,0
-1422,1,sheffield,Slightly Negative,1,1,1,1,1,1,1,1,0
+1420,0,southeast,Slightly Positive,1,1,1,1,1,1,1,1,0
+1421,0,east midland,Neutral,1,1,1,1,1,1,1,1,0
+1422,1,telford,Slightly Negative,1,1,1,1,1,1,1,1,0
 1423,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1424,1,london,Slightly Negative,1,1,1,1,1,1,1,1,0
 1425,0,southwest,Slightly Negative,1,1,1,1,1,1,1,1,0
 1426,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-1427,1,west midland,Slightly Positive,1,1,1,1,1,1,1,1,0
-1428,0,west midland,Slightly Negative,1,1,1,1,1,1,1,1,0
+1427,1,southwest,Slightly Positive,1,1,1,1,1,1,1,1,0
+1428,0,southwest,Slightly Negative,1,1,1,1,1,1,1,1,0
 1429,1,east midland,Neutral,1,1,1,1,1,1,1,1,0
 1430,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1431,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -1469,7 +1469,7 @@
 1467,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1468,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1469,1,southwest,Slightly Negative,1,1,1,1,1,1,1,1,0
-1470,1,west midland,Neutral,1,1,1,1,1,1,1,1,0
+1470,1,wales,Neutral,1,1,1,1,1,1,1,1,0
 1471,0,southwest,Slightly Negative,1,1,1,1,1,1,1,1,0
 1472,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1473,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -1479,28 +1479,28 @@
 1477,1,northwest,Slightly Positive,1,1,1,1,1,1,1,1,0
 1478,1,london,Neutral,1,1,1,1,1,1,1,1,0
 1479,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
-1480,1,plymouth,Neutral,1,1,1,1,1,1,1,1,0
+1480,1,nottingham,Neutral,1,1,1,1,1,1,1,1,0
 1481,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1482,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1483,1,scotland,Slightly Negative,1,1,1,1,1,1,1,1,0
 1484,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-1485,1,west midland,Extremely Negative,1,1,1,1,1,1,1,1,0
+1485,1,southwest,Extremely Negative,1,1,1,1,1,1,1,1,0
 1486,1,london,Neutral,1,1,1,1,1,1,1,1,0
 1487,1,london,Slightly Negative,1,1,1,1,1,1,1,1,0
 1488,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
-1489,0,southwest,Neutral,1,1,1,1,1,1,1,1,0
+1489,0,northeast,Neutral,1,1,1,1,1,1,1,1,0
 1490,0,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1491,1,southeast,Slightly Negative,1,1,1,1,1,1,1,1,0
 1492,1,yorkshire,Slightly Positive,1,1,1,1,1,1,1,1,0
-1493,1,birmingham,Neutral,1,1,1,1,1,1,1,1,0
+1493,1,coventry,Neutral,1,1,1,1,1,1,1,1,0
 1494,1,southeast,Neutral,1,1,1,1,1,1,1,1,0
 1495,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1496,1,london,Slightly Negative,1,1,1,1,1,1,1,1,0
 1497,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1498,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-1499,1,yorkshire,Slightly Negative,1,1,1,1,1,1,1,1,0
-1500,1,west midland,Neutral,1,1,1,1,1,1,1,1,0
-1501,0,southeast,Neutral,1,1,1,1,1,1,1,1,0
+1499,1,scotland,Slightly Negative,1,1,1,1,1,1,1,1,0
+1500,1,northwest,Neutral,1,1,1,1,1,1,1,1,0
+1501,0,west midland,Neutral,1,1,1,1,1,1,1,1,0
 1502,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1503,1,northwest,Extremely Negative,1,1,1,1,1,1,1,1,0
 1504,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -1515,7 +1515,7 @@
 1513,1,scotland,Neutral,1,1,1,1,1,1,1,1,0
 1514,0,southeast,Slightly Negative,1,1,1,1,1,1,1,1,0
 1515,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-1516,0,east midland,Neutral,1,1,1,1,1,1,1,1,0
+1516,0,southeast,Neutral,1,1,1,1,1,1,1,1,0
 1517,0,northwest,Slightly Positive,1,1,1,1,1,1,1,1,0
 1518,1,other towns and places,Extremely Positive,1,1,1,1,1,1,1,1,0
 1519,1,northwest,Neutral,1,1,1,1,1,1,1,1,0
@@ -1524,7 +1524,7 @@
 1522,1,london,Slightly Negative,1,1,1,1,1,1,1,1,0
 1523,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1524,1,southwest,Neutral,1,1,1,1,1,1,1,1,0
-1525,1,east midland,Extremely Negative,1,1,1,1,1,1,1,1,0
+1525,1,west midland,Extremely Negative,1,1,1,1,1,1,1,1,0
 1526,1,london,Neutral,1,1,1,1,1,1,1,1,0
 1527,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1528,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
@@ -1532,31 +1532,31 @@
 1530,1,london,Slightly Negative,1,1,1,1,1,1,1,1,0
 1531,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1532,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-1533,0,wales,Slightly Positive,1,1,1,1,1,1,1,1,0
+1533,0,northwest,Slightly Positive,1,1,1,1,1,1,1,1,0
 1534,1,london,Slightly Positive,1,1,1,1,1,1,1,1,0
-1535,1,northeast,Slightly Positive,1,1,1,1,1,1,1,1,0
+1535,1,east midland,Slightly Positive,1,1,1,1,1,1,1,1,0
 1536,1,northwest,Neutral,1,1,1,1,1,1,1,1,0
 1537,1,scotland,Slightly Negative,1,1,1,1,1,1,1,1,0
 1538,0,west midland,Neutral,1,1,1,1,1,1,1,1,0
 1539,1,london,Slightly Negative,1,1,1,1,1,1,1,1,0
-1540,1,swansea,Extremely Positive,1,1,1,1,1,1,1,1,0
+1540,1,nottingham,Extremely Positive,1,1,1,1,1,1,1,1,0
 1541,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1542,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1543,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1544,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1545,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1546,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
-1547,1,southwest,Slightly Negative,1,1,1,1,1,1,1,1,0
+1547,1,west midland,Slightly Negative,1,1,1,1,1,1,1,1,0
 1548,0,scotland,Extremely Positive,1,1,1,1,1,1,1,1,0
 1549,1,east midland,Slightly Negative,1,1,1,1,1,1,1,1,0
 1550,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1551,1,northern ireland,Neutral,1,1,1,1,1,1,1,1,0
 1552,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
-1553,1,southeast,Neutral,1,1,1,1,1,1,1,1,0
+1553,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 1554,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1555,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1556,1,southwest,Neutral,1,1,1,1,1,1,1,1,0
-1557,1,yorkshire,Slightly Positive,1,1,1,1,1,1,1,1,0
+1557,1,southwest,Slightly Positive,1,1,1,1,1,1,1,1,0
 1558,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1559,1,northern ireland,Slightly Positive,1,1,1,1,1,1,1,1,0
 1560,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -1567,12 +1567,12 @@
 1565,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1566,1,southeast,Neutral,1,1,1,1,1,1,1,1,0
 1567,0,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
-1568,1,huddersfield,Slightly Positive,1,1,1,1,1,1,1,1,0
+1568,1,northampton,Slightly Positive,1,1,1,1,1,1,1,1,0
 1569,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 1570,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1571,1,wales,Slightly Negative,1,1,1,1,1,1,1,1,0
 1572,0,other towns and places,Extremely Positive,1,1,1,1,1,1,1,1,0
-1573,1,wales,Slightly Negative,1,1,1,1,1,1,1,1,0
+1573,1,southwest,Slightly Negative,1,1,1,1,1,1,1,1,0
 1574,1,northern ireland,Extremely Positive,1,1,1,1,1,1,1,1,0
 1575,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1576,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -1596,7 +1596,7 @@
 1594,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1595,1,west midland,Extremely Positive,1,1,1,1,1,1,1,1,0
 1596,1,other towns and places,Extremely Negative,1,1,1,1,1,1,1,1,0
-1597,1,wales,Neutral,1,1,1,1,1,1,1,1,0
+1597,1,southwest,Neutral,1,1,1,1,1,1,1,1,0
 1598,1,east midland,Slightly Negative,1,1,1,1,1,1,1,1,0
 1599,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1600,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -1607,19 +1607,19 @@
 1605,0,scotland,Neutral,1,1,1,1,1,1,1,1,0
 1606,1,london,Slightly Positive,1,1,1,1,1,1,1,1,0
 1607,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-1608,1,southwest,Neutral,1,1,1,1,1,1,1,1,0
+1608,1,southeast,Neutral,1,1,1,1,1,1,1,1,0
 1609,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
-1610,1,bournemouth,Neutral,1,1,1,1,1,1,1,1,0
+1610,1,peterborough,Neutral,1,1,1,1,1,1,1,1,0
 1611,0,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1612,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1613,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-1614,1,east midland,Extremely Positive,1,1,1,1,1,1,1,1,0
+1614,1,northeast,Extremely Positive,1,1,1,1,1,1,1,1,0
 1615,0,west midland,Neutral,1,1,1,1,1,1,1,1,0
 1616,1,scotland,Slightly Negative,1,1,1,1,1,1,1,1,0
 1617,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1618,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1619,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
-1620,0,northwest,Slightly Positive,1,1,1,1,1,1,1,1,0
+1620,0,southeast,Slightly Positive,1,1,1,1,1,1,1,1,0
 1621,1,west midland,Slightly Negative,1,1,1,1,1,1,1,1,0
 1622,0,london,Slightly Negative,1,1,1,1,1,1,1,1,0
 1623,1,southwest,Neutral,1,1,1,1,1,1,1,1,0
@@ -1635,29 +1635,29 @@
 1633,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 1634,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1635,0,other towns and places,Extremely Positive,1,1,1,1,1,1,1,1,0
-1636,0,luton,Neutral,1,1,1,1,1,1,1,1,0
+1636,0,wolverhampton,Neutral,1,1,1,1,1,1,1,1,0
 1637,1,yorkshire,Slightly Positive,1,1,1,1,1,1,1,1,0
 1638,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1639,0,east midland,Slightly Positive,1,1,1,1,1,1,1,1,0
 1640,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1641,1,london,Neutral,1,1,1,1,1,1,1,1,0
-1642,1,west midland,Slightly Negative,1,1,1,1,1,1,1,1,0
+1642,1,northeast,Slightly Negative,1,1,1,1,1,1,1,1,0
 1643,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-1644,1,wolverhampton,Slightly Positive,1,1,1,1,1,1,1,1,0
+1644,1,derby,Slightly Positive,1,1,1,1,1,1,1,1,0
 1645,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1646,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1647,1,other towns and places,Extremely Positive,1,1,1,1,1,1,1,1,0
 1648,1,other towns and places,Extremely Positive,1,1,1,1,1,1,1,1,0
-1649,1,cambridge,Slightly Negative,1,1,1,1,1,1,1,1,0
+1649,1,southampton,Slightly Negative,1,1,1,1,1,1,1,1,0
 1650,1,southwest,Neutral,1,1,1,1,1,1,1,1,0
 1651,1,scotland,Neutral,1,1,1,1,1,1,1,1,0
 1652,0,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1653,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1654,1,northeast,Neutral,1,1,1,1,1,1,1,1,0
-1655,1,southeast,Neutral,1,1,1,1,1,1,1,1,0
+1655,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 1656,1,east midland,Neutral,1,1,1,1,1,1,1,1,0
 1657,1,scotland,Neutral,1,1,1,1,1,1,1,1,0
-1658,1,luton,Slightly Negative,1,1,1,1,1,1,1,1,0
+1658,1,warrington,Slightly Negative,1,1,1,1,1,1,1,1,0
 1659,1,scotland,Neutral,1,1,1,1,1,1,1,1,0
 1660,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1661,1,yorkshire,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -1666,12 +1666,12 @@
 1664,1,london,Neutral,1,1,1,1,1,1,1,1,0
 1665,0,yorkshire,Slightly Positive,1,1,1,1,1,1,1,1,0
 1666,1,northwest,Slightly Negative,1,1,1,1,1,1,1,1,0
-1667,1,southwest,Slightly Negative,1,1,1,1,1,1,1,1,0
+1667,1,northeast,Slightly Negative,1,1,1,1,1,1,1,1,0
 1668,0,northwest,Slightly Negative,1,1,1,1,1,1,1,1,0
 1669,0,yorkshire,Slightly Negative,1,1,1,1,1,1,1,1,0
 1670,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1671,1,london,Neutral,1,1,1,1,1,1,1,1,0
-1672,1,northwest,Neutral,1,1,1,1,1,1,1,1,0
+1672,1,west midland,Neutral,1,1,1,1,1,1,1,1,0
 1673,1,yorkshire,Slightly Positive,1,1,1,1,1,1,1,1,0
 1674,0,london,Slightly Positive,1,1,1,1,1,1,1,1,0
 1675,1,southeast,Neutral,1,1,1,1,1,1,1,1,0
@@ -1679,26 +1679,26 @@
 1677,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1678,1,yorkshire,Extremely Positive,1,1,1,1,1,1,1,1,0
 1679,0,northwest,Extremely Positive,1,1,1,1,1,1,1,1,0
-1680,1,east midland,Neutral,1,1,1,1,1,1,1,1,0
+1680,1,southeast,Neutral,1,1,1,1,1,1,1,1,0
 1681,0,london,Neutral,1,1,1,1,1,1,1,1,0
 1682,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1683,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1684,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
-1685,1,southwest,Extremely Positive,1,1,1,1,1,1,1,1,0
+1685,1,yorkshire,Extremely Positive,1,1,1,1,1,1,1,1,0
 1686,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-1687,1,cardiff,Neutral,1,1,1,1,1,1,1,1,0
+1687,1,oxford,Neutral,1,1,1,1,1,1,1,1,0
 1688,0,west midland,Slightly Negative,1,1,1,1,1,1,1,1,0
-1689,1,wales,Slightly Negative,1,1,1,1,1,1,1,1,0
-1690,1,northeast,Slightly Negative,1,1,1,1,1,1,1,1,0
+1689,1,scotland,Slightly Negative,1,1,1,1,1,1,1,1,0
+1690,1,northwest,Slightly Negative,1,1,1,1,1,1,1,1,0
 1691,1,southeast,Extremely Positive,1,1,1,1,1,1,1,1,0
 1692,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1693,1,northwest,Slightly Positive,1,1,1,1,1,1,1,1,0
-1694,1,northwest,Neutral,1,1,1,1,1,1,1,1,0
+1694,1,northeast,Neutral,1,1,1,1,1,1,1,1,0
 1695,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1696,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1697,0,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1698,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-1699,1,bradford,Slightly Positive,1,1,1,1,1,1,1,1,0
+1699,1,bournemouth,Slightly Positive,1,1,1,1,1,1,1,1,0
 1700,1,northwest,Extremely Positive,1,1,1,1,1,1,1,1,0
 1701,1,wales,Slightly Positive,1,1,1,1,1,1,1,1,0
 1702,1,yorkshire,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -1706,7 +1706,7 @@
 1704,0,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1705,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1706,1,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
-1707,1,east midland,Extremely Positive,1,1,1,1,1,1,1,1,0
+1707,1,west midland,Extremely Positive,1,1,1,1,1,1,1,1,0
 1708,1,london,Neutral,1,1,1,1,1,1,1,1,0
 1709,1,southeast,Slightly Positive,1,1,1,1,1,1,1,1,0
 1710,1,northeast,Slightly Negative,1,1,1,1,1,1,1,1,0
@@ -1714,7 +1714,7 @@
 1712,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1713,0,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1714,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
-1715,1,southeast,Slightly Negative,1,1,1,1,1,1,1,1,0
+1715,1,wales,Slightly Negative,1,1,1,1,1,1,1,1,0
 1716,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1717,0,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1718,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
@@ -1724,14 +1724,14 @@
 1722,1,east midland,Slightly Negative,1,1,1,1,1,1,1,1,0
 1723,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
 1724,1,other towns and places,Slightly Positive,1,1,1,1,1,1,1,1,0
-1725,1,southwest,Neutral,1,1,1,1,1,1,1,1,0
+1725,1,wales,Neutral,1,1,1,1,1,1,1,1,0
 1726,0,east midland,Slightly Negative,1,1,1,1,1,1,1,1,0
 1727,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1728,1,yorkshire,Neutral,1,1,1,1,1,1,1,1,0
 1729,0,other towns and places,Slightly Negative,1,1,1,1,1,1,1,1,0
 1730,1,east midland,Slightly Positive,1,1,1,1,1,1,1,1,0
-1731,1,northwest,Extremely Positive,1,1,1,1,1,1,1,1,0
+1731,1,yorkshire,Extremely Positive,1,1,1,1,1,1,1,1,0
 1732,1,other towns and places,Neutral,1,1,1,1,1,1,1,1,0
 1733,1,east midland,Slightly Positive,1,1,1,1,1,1,1,1,0
 1734,1,northern ireland,Slightly Negative,1,1,1,1,1,1,1,1,0
-1735,1,west midland,Slightly Positive,1,1,1,1,1,1,1,1,0
+1735,1,northwest,Slightly Positive,1,1,1,1,1,1,1,1,0
